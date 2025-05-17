@@ -1,8 +1,8 @@
-# Horace Skis Again! - Clouds!
+# Horace Skis Again!
 
 ## Description
 
-"Horace Skis Again! - Clouds!" is a fun, fast-paced arcade-style skiing game. Take control of Horace as he speeds down a snowy mountain, navigating through treacherous trees and challenging flag gates. The goal is to ski as far as possible, racking up points by successfully passing through gates, while avoiding obstacles. The game features a dynamic parallax background with mountains, hills, snow, and even foreground clouds for an immersive experience!
+"Horace Skis Again!" is a fun, fast-paced arcade-style skiing game. Take control of Horace as he speeds down a snowy mountain, navigating through treacherous trees and challenging flag gates. The goal is to ski as far as possible, racking up points by successfully passing through gates, while avoiding obstacles. The game features a dynamic parallax background with mountains, hills, snow, and even foreground clouds for an immersive experience!
 
 ## Gameplay
 
